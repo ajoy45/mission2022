@@ -63,14 +63,40 @@ h1 span{
     font-size: 15px;
 }
 
-.second-iteam{
+.second-iteam1{
     width: 20%;
-    padding: 50px 50px;
-    margin-left: 20px;
+    padding: 20px 40px;
+    margin-left: 85px;
     background-color: lightslategrey;
     border-radius: 15px;
+    margin-bottom: 30px;
+    margin-top: 20px;
 }
-.second-iteam img{
+.second-iteam1 img{
+    width: 40%;
+}
+.second-iteam2{
+    width: 20%;
+    padding: 20px 40px;
+    margin-left: 85px;
+    background-color: rgb(40, 146, 84);
+    border-radius: 15px;
+    margin-bottom: 30px;
+    margin-top: 20px;
+}
+.second-iteam2 img{
+    width: 40%;
+}
+.second-iteam3{
+    width: 20%;
+    padding: 20px 40px;
+    margin-left: 85px;
+    background-color: rgb(10, 77, 145);
+    border-radius: 15px;
+    margin-bottom: 30px;
+    margin-top: 20px;
+}
+.second-iteam3 img{
     width: 40%;
 }
 .second-heading{
@@ -78,6 +104,3 @@ h1 span{
     text-transform: uppercase;
     font-weight: 600;
 }
-
-
-
