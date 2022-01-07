@@ -18,6 +18,9 @@ h1{
 h1 span{
     color: gold;
 }
+.color{
+    color: gold;
+}
 
 .half-width1{
     width: 50%;
@@ -60,6 +63,21 @@ h1 span{
     font-size: 15px;
 }
 
+.second-iteam{
+    width: 20%;
+    padding: 50px 50px;
+    margin-left: 20px;
+    background-color: lightslategrey;
+    border-radius: 15px;
+}
+.second-iteam img{
+    width: 40%;
+}
+.second-heading{
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 600;
+}
 
 
 
