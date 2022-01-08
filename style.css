@@ -18,6 +18,9 @@ h1{
 h1 span{
     color: gold;
 }
+.left-border h1{
+    margin: 0 0;
+}
 .color{
     color: gold;
 }
