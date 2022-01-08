@@ -127,3 +127,38 @@ h1 span{
 .read{
     margin: 0 -48px;
 }
+.half-width3{
+    width: 50%;
+    padding: 44px 14px;
+
+}
+.half-width3 img{
+    width: 70%;
+    margin-left: 10%;
+}
+.half-width3 h1{
+    font-size: 70px;
+    font-weight: 900;
+    margin: 4px 91px;
+}
+.half-width3 p{
+    font-size: 23px;
+    margin:39px 91px;
+
+}
+.read-docu{
+    margin-left: 91px;
+}
+footer{
+    background-color: rgb(77, 70, 70);
+}
+footer h1{
+    text-align: center;
+    margin: 1px 0;
+    text-transform:capitalize ;
+}
+footer p{
+    text-align: center;
+    padding: 5px 5px;
+    text-transform: uppercase;
+}
