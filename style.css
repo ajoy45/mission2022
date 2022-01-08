@@ -13,7 +13,6 @@ body{
 }
 h1{
     font-size: 50px;
-    margin: 0;
 }
 h1 span{
     color: gold;
@@ -57,6 +56,7 @@ h1 span{
     color: white;
     border-radius: 5px;
     font-size: 18px;
+    text-transform: uppercase;
 }
 .small-text{
     padding:40px 0;
@@ -97,10 +97,32 @@ h1 span{
     margin-top: 20px;
 }
 .second-iteam3 img{
-    width: 40%;
+    width: 50%;
 }
 .second-heading{
     text-align: center;
     text-transform: uppercase;
     font-weight: 600;
+}
+.half-width2{
+    width: 40%;
+    padding: 44px 14px;
+    margin: 30px -7px;
+
+}
+.half-width2 img{
+    width: 76%;
+    margin-left: 10%;
+}
+.half-width2 h1{
+    font-size: 70px;
+    font-weight: 900;
+    margin: 11px 0;
+}
+.half-width2 p{
+    font-size: 23px;
+    margin: 20px 4px;
+}
+.develop{
+
 }
